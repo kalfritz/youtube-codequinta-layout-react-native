@@ -12,7 +12,7 @@ export default class ProductList extends Component {
     products: [
       {
         id: 1,
-        image: 'https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=28010875',
+        image: 'https://http2.mlstatic.com/sandalia-preta-tira-social-festa-salto-alto-fino-verniz-D_NQ_NP_975586-MLB26887679955_022018-F.jpg',
         title: 'Acne Studios',
         description: 'Andrea nappa dusty pink',
         price: 'R$50,00',
@@ -26,7 +26,7 @@ export default class ProductList extends Component {
       },
       {
         id: 3,
-        image: 'https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=28010875',
+        image: 'https://http2.mlstatic.com/sandalia-preta-tira-social-festa-salto-alto-fino-verniz-D_NQ_NP_975586-MLB26887679955_022018-F.jpg',
         title: 'Acne Studios',
         description: 'Andrea nappa dusty pink',
         price: 'R$30,00',
